@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1><font color='VIOLET'>Welcome to Ashok IT<font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='PURPLE'>Welcome to Ashok IT<font></h1>
+<h3>Learn Here.. Lead Anywhere..!! </h3>
 
 <a href="https://ashokitech.com/online-training-schedules">Training Schedules</a>
 
